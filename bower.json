@@ -1,0 +1,17 @@
+{
+    "name": "novascript-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Wojciech Kalinowski"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/novascript-bower.git"
+    },
+    "description": "Nova Script font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
